@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 # Blog Platform - Internship Assignment
 
 A comprehensive Blog Platform built with **Flutter** (mobile) and **Node.js** (backend) for Mitt Arv internship assignment.
@@ -606,8 +603,3 @@ This project was developed as part of an internship assignment. For questions or
 ## 📄 License
 
 This project is developed for educational purposes as part of the Mitt Arv internship program.
-
----
-
-**Developed with ❤️ using AI-powered development tools**
->>>>>>> 18cedbe (Initial commit: Complete Blog Platform with Flutter mobile app and Node.js backend)
